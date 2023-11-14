@@ -3,6 +3,6 @@ Name      Hours    Date    Description
 Harkirat  1        Oct,06  Researched ideas for project proposal document.
 Harkirat  1.5      Oct,07  Created the project proposal document and uploaded it to BlackBoard.
 Harkirat  0.1      Oct,16  Created the contribution document and shared it with professor.
-Harkirat  0.1      Oct,16  Created the contribution document and shared it with professor.
+Harkirat  0.1      Oct,16  Created the figma project and shared it with professor.
 Harkirat  2        Nov,13  Researched and created the user requirement gathering survey and sent it to 5 users for their inputs on google forms.
 
