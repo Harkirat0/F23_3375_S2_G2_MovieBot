@@ -9,3 +9,4 @@ Harkirat  2        Nov,14  Started working on homepage of the app, created the c
 Harkirat  1.5      Nov,14  Created the movie recommendation by top rated for the week horizontal scrolling and added the bottom navigation bar.
 Harkirat  3        Nov,21  Created the media player page with added controls for the video playing and updated the home page with genre. 
 Harkirat  2        Nov,22  Created the chats page and the detailed chat page. Also, created the my accounts page. Updated few other elements to look same.
+Harkirat  2.5      Nov,22  Added the gestures and prototyping to the pages and created the chromecast page, notification for update password.
