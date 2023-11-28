@@ -14,4 +14,5 @@ Harkirat  1.5      Nov,22  Added the live chat while watching movies feature and
 Harkirat  1.5      Nov,26  Changed the colors,font and other display features of the search and movie description page to integrate into project.
 Harkirat  1.5      Nov,27  Integrated everything togather and created additional video gestures and prototypes to create a final product. 
 Harkirat  0.5      Nov,27  Created the prototype evaluation survey and sent it out for responses.
+Harkirat  0.75     Nov,28  Updated the movie slider with better navigation and better UX as suggested by some users. Also, added a toolbar at bottom of slider to keep track of the images.
 
