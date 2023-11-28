@@ -11,3 +11,7 @@ Harkirat  3        Nov,21  Created the media player page with added controls for
 Harkirat  2        Nov,22  Created the chats page and the detailed chat page. Also, created the my accounts page. Updated few other elements to look same.
 Harkirat  2.5      Nov,22  Added the gestures and prototyping to the pages and created the chromecast page, notification for update password.
 Harkirat  1.5      Nov,22  Added the live chat while watching movies feature and few other tweaks.
+Harkirat  1.5      Nov,26  Changed the colors,font and other display features of the search and movie description page to integrate into project.
+Harkirat  1.5      Nov,27  Integrated everything togather and created additional video gestures and prototypes to create a final product. 
+
+
