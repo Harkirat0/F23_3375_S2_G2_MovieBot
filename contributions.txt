@@ -13,5 +13,5 @@ Harkirat  2.5      Nov,22  Added the gestures and prototyping to the pages and c
 Harkirat  1.5      Nov,22  Added the live chat while watching movies feature and few other tweaks.
 Harkirat  1.5      Nov,26  Changed the colors,font and other display features of the search and movie description page to integrate into project.
 Harkirat  1.5      Nov,27  Integrated everything togather and created additional video gestures and prototypes to create a final product. 
-
+Harkirat  0.5      Nov,27  Created the prototype evaluation survey and sent it out for responses.
 
