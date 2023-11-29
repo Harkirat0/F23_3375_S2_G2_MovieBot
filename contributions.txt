@@ -1,6 +1,7 @@
 Name      Hours    Date    Description
 
 Harkirat  1        Oct,06  Researched ideas for project proposal document.
+Akash     1        Oct,06  Researched concepts for project proposal.
 Harkirat  1.5      Oct,07  Created the project proposal document and uploaded it to BlackBoard.
 Harkirat  0.1      Oct,16  Created the contribution document and shared it with professor.
 Harkirat  0.1      Oct,16  Created the figma project and shared it with professor.
