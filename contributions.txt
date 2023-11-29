@@ -6,12 +6,13 @@ Harkirat  1.5      Oct,07  Created the project proposal document and uploaded it
 Harkirat  0.1      Oct,16  Created the contribution document and shared it with professor.
 Harkirat  0.1      Oct,16  Created the figma project and shared it with professor.
 Harkirat  2        Nov,13  Researched and created the user requirement gathering survey and sent it to 5 users for their inputs on google forms.
+Akash     2        Nov,13  Worked on creating user requirements gathering survey.
 Harkirat  2        Nov,14  Started working on homepage of the app, created the carousel with movie images and the logo for the app.
 Harkirat  1.5      Nov,14  Created the movie recommendation by top rated for the week horizontal scrolling and added the bottom navigation bar.
-Akash     1        Nov,18 Started working on movie description page.
+Akash     1        Nov,18  Started working on movie description page.
 Harkirat  3        Nov,21  Created the media player page with added controls for the video playing and updated the home page with genre. 
 Harkirat  2        Nov,22  Created the chats page and the detailed chat page. Also, created the my accounts page. Updated few other elements to look same.
-Akash     2        Nov,22  Tried to add the on tap functionality on movie description block, faced faced constraint issue.
+Akash     2        Nov,22  Tried to add the on tap functionality on movie description block,  faced constraint issue.
 Harkirat  2.5      Nov,22  Added the gestures and prototyping to the pages and created the chromecast page, notification for update password.
 Harkirat  1.5      Nov,22  Added the live chat while watching movies feature and few other tweaks.
 Akash     2        Nov,22  Added Similar movies frame and Completed movie description page.
@@ -22,6 +23,8 @@ Harkirat  1.5      Nov,27  Integrated everything togather and created additional
 Harkirat  0.5      Nov,27  Created the prototype evaluation survey and sent it out for responses.
 Harkirat  0.75     Nov,28  Updated the movie slider with better navigation and better UX as suggested by some users. Also, added a toolbar at bottom of slider to keep track of the images.
 Harkirat  2.5     Nov,29  Created the project report along with all the other information.
+Akash     1       Nov,29  Created video for the final prototype presentation.
+Akash     2.5     Nov,29  Worked on creating the final report.
 
 
 
